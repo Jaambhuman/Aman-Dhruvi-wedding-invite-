@@ -39,3 +39,4 @@ The included SQL enables public RSVP submissions and photo uploads. The public a
 - Replace the current story copy with your own story and add approved couple photos if desired.
 - Update the reception Google Maps URL in the Vercel environment variables.
 - The wedding venue for 2–3 January is intentionally marked as “to follow” because its details were not provided.
+- Wedding website deployment refresh - November 2026.
